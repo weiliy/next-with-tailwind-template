@@ -6,7 +6,8 @@ This is a template for a Next.js project with:
 - shadcn ui
 - ESLint.
 
-Build-in features:
+## Build-in features:
+- i18n
 - Dark mode 
 
 To use this template, click the "Use this template" button on GitHub, or run the following command:
