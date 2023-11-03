@@ -9,6 +9,7 @@ This is a template for a Next.js project with:
 ## Build-in features:
 - i18n
 - Dark mode 
+- Git commit lint in pre-commit hook
 
 To use this template, click the "Use this template" button on GitHub, or run the following command:
 
