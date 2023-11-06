@@ -10,6 +10,7 @@ This is a template for a Next.js project with:
 - i18n
 - Dark mode 
 - Git commit lint in pre-commit hook
+- Redux
 
 To use this template, click the "Use this template" button on GitHub, or run the following command:
 
